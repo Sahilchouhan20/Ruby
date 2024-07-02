@@ -17,3 +17,4 @@ end
 
 perf=Perfect.new
 perf.check(10)
+
